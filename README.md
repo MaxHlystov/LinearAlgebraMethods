@@ -4,6 +4,9 @@ Some functions to solve linear algebra problems
 ## GaussElimination.py
 Solve system of linear equation by Gaussian elimination method (see https://en.wikipedia.org/wiki/Gaussian_elimination) 
 
+## GaussElimination.py
+Find determinant of a square matrix
+
 ## bestLinearSystemSolution.py
 Find the best system of linear equation solution by minimize squared difference between vector of the constant terms and computed by the system values.  
 For example, we have some linear model Y=C*X.  
